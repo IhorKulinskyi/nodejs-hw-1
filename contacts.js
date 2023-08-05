@@ -37,9 +37,3 @@ program.parse();
 const options = program.opts();
 
 invokeAction(options);
-
-// {
-//   name: "Jimmy Miller",
-//   email: "jimmy.ante@vestibul.co.uk",
-//   phone: "(997) 977-4592",
-// }
